@@ -1,4 +1,4 @@
-# Sandor Koszkta
+# Sandor Kosztka
 
 _Cloud Architect based in Budapest, Hungary_ <br>
 
