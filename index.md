@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Sandor Koszkta
 
-You can use the [editor on GitHub](https://github.com/kosztkas/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Cloud Architect based in Budapest, Hungary_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:sandor.kosztka@gmail.com) / [Website](https://ksztk.hu/) / [LinkedIn](https://www.linkedin.com/in/kosztkas/) / [GitHub](https://github.com/kosztkas/))
 
-### Markdown
+## Engineering Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Cloud Architect** @ [INVITECH](https://invitech.hu/) _(Jan 2020 - Present)_ <br>
+Cloud Architect
+  - Tested and deployed a new KVM solution for our datacenter services
+  - Providing thought leadership for overall AWS architecture, testing and deployment
+  - Training colleagues on the fundamentals of containerization and Kubernetes
+  - **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Cloud Specialist** @ [BT](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Solution Consultant** @ [Vodafone](https://www.vodafone.com/) _(Jan 2017 - Apr 2019)_ <br>
+Cloud & Security Services
+<br><br>
 
-- Bulleted
-- List
+## On The Side
 
-1. Numbered
-2. List
+**Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
+Mentoring students on the fundamentals of Ansible
+<br><br>
 
-**Bold** and _Italic_ and `Code` text
+**Research Assistant** @ [BME](https://www.bme.hu//) _(Mar 2022 - Present)_ <br>
+ Consulting on the Training Project Laboratory course
+<br><br>
+        
+## Certifications
+ - Veeam Certified Engineer 2021 (VMCE 2021) v11
+ - AWS Certified Solutions Architect – Associate
+ - Alibaba Cloud Certified Professional - ACP - Cloud Computing
+<br><br>
 
-[Link](url) and ![Image](src)
-```
+## Languages
+**Hungarian**: Native <br>
+**English**: Full professional proficiency
+<br><br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Education
+**Bachelor of Profession, Computer Science** <br>
+Budapest University of Technology and Economics <br>
+Testing and Operation specialization
 
-### Jekyll Themes
+**Bachelor of Science, Computer Engineering** <br>
+Budapest University of Technology and Economics <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kosztkas/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br><br>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
