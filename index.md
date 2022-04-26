@@ -15,7 +15,7 @@ Cloud Architect
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
 
-**Cloud Specialist** @ [BT](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
+**Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
 Being a subject matter expert for cloud product development in Cloud Managed Services
  - Develop automation and design for our Alibaba cloud offering product launch. 
  - Contributed to the development of the SSO for the multi cloud solution. <br>
@@ -50,9 +50,9 @@ Solutions & Projects
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
 Mentoring students on the fundamentals of Ansible
-<br><br>
+<br>
 
-**Research Assistant** @ [BME](https://www.bme.hu//) _(Mar 2022 - Present)_ <br>
+**Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Mar 2022 - Present)_ <br>
  Consulting on the Training Project Laboratory course
 <br><br>
         
