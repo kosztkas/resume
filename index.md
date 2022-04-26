@@ -60,6 +60,9 @@ Mentoring students on the fundamentals of Ansible
  - Veeam Certified Engineer 2021 (VMCE 2021) v11
  - AWS Certified Solutions Architect – Associate
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
+
+![VMCE](https://images.credly.com/size/100x100/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png)
+![AWS](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 <br><br>
 
 ## Awards
