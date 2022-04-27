@@ -10,7 +10,10 @@ _Cloud Architect based in Budapest, Hungary_ <br>
 Cloud Architect
   - Tested and deployed a new KVM solution for our datacenter services
   - Providing thought leadership for overall AWS architecture, testing and deployment
-  - Training colleagues on the fundamentals of containerization and Kubernetes <br>
+  - Training colleagues on the fundamentals of containerization and Kubernetes
+  - Supporting Veeam Cloud Connect deals on TDA level
+  - Building a new Kubernetes product
+  - Creating short lightboard videos explaining our solutions on a high level<br>
   
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
@@ -54,15 +57,17 @@ Mentoring students on the fundamentals of Ansible
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Mar 2022 - Present)_ <br>
  Consulting on the Training Project Laboratory course
+ Exercises in Docker and Kubernetes
 <br><br>
         
 ## Certifications
- - Veeam Certified Engineer 2021 (VMCE 2021) v11
- - AWS Certified Solutions Architect – Associate
+ - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
+ - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a6b33fc8-9eb3-41ae-84f6-9c81c07e05b3)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
 
 ![VMCE](https://images.credly.com/size/100x100/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png)
 ![AWS](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+<img src="https://i.imgur.com/j1ZBAEP.png" alt="Ali" width="100"/>
 <br><br>
 
 ## Awards
