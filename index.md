@@ -81,7 +81,7 @@ Mentoring students on the fundamentals of Ansible
 ## Education
 **Bachelor of Profession, Computer Science** <br>
 Budapest University of Technology and Economics <br>
-Testing and Operation specialization
+Major in Testing and Operation
 
 **Bachelor of Science, Computer Engineering** <br>
 Budapest University of Technology and Economics <br>
