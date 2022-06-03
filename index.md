@@ -7,7 +7,7 @@ _Cloud Architect based in Budapest, Hungary_ <br>
 ## Experience
 
 **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Present)_ <br>
-Cloud Architect
+Enterprise Solutions - Cloud
   - Tested and deployed a new KVM solution for our datacenter services
   - Providing thought leadership for overall AWS architecture, testing and deployment
   - Training colleagues on the fundamentals of containerization and Kubernetes
@@ -19,7 +19,9 @@ Cloud Architect
 <br><br>
 
 **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
-Being a subject matter expert for cloud product development in Cloud Managed Services
+Cloud Managed Services
+
+Being a subject matter expert for cloud product development
  - Develop automation and design for our Alibaba cloud offering product launch. 
  - Contributed to the development of the SSO for the multi cloud solution. <br>
   (With Python, Terraform and Resource Orchestration Service /ROS/ templates)
@@ -52,7 +54,7 @@ Solutions & Projects
 ## On The Side
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
-Mentoring students on the fundamentals of Ansible
+Mentoring students on the fundamentals of Ansible and Public Clouds -  AWS
 <br>
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Mar 2022 - Present)_ <br>
