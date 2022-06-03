@@ -2,7 +2,7 @@
 
 _Cloud Architect based in Budapest, Hungary_ <br>
 
-[Email](mailto:sandor.kosztka@gmail.com) / [Website](https://ksztk.hu/) / [LinkedIn](https://www.linkedin.com/in/kosztkas/) / [GitHub](http://git.io/sztk)
+[Email](mailto:sandor.kosztka@gmail.com) / [~~Website~~](https://ksztk.hu/) / [LinkedIn](https://www.linkedin.com/in/kosztkas/) / [GitHub](http://git.io/sztk)
 
 ## Experience
 
