@@ -1,6 +1,6 @@
 # Sandor Kosztka
 
-_Cloud Architect based in Budapest, Hungary_ <br>
+_Cloud Architect in Budapest, Hungary_ <br>
 
 [Email](mailto:sandor.kosztka@gmail.com) / [~~Website~~](https://ksztk.hu/) / [LinkedIn](https://www.linkedin.com/in/kosztkas/) / [GitHub](http://git.io/sztk)
 
@@ -57,8 +57,8 @@ Solutions & Projects
 Mentoring students on the fundamentals of Ansible and Public Clouds -  AWS
 <br>
 
-**Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Mar 2022 - Present)_ <br>
- Consulting on the Training Project Laboratory course
+**Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Mar 2022 - June 2022)_ <br>
+ Consulting on the Training Project Laboratory course in the semester
  Exercises in Docker and Kubernetes
 <br><br>
         
