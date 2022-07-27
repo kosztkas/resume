@@ -66,6 +66,7 @@ Mentoring students on the fundamentals of Ansible and Public Clouds -  AWS
  - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a6b33fc8-9eb3-41ae-84f6-9c81c07e05b3)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
+ - Qualified Electrician - 2022 June
 
 ![VMCE](https://images.credly.com/size/100x100/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png)
 ![AWS](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
