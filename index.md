@@ -74,7 +74,7 @@ Mentoring students on the fundamentals of Ansible and Public Clouds -  AWS
 <br><br>
 
 ## Awards
- - Alibaba Cloud MVP 2018 - 2019 - 2020
+ - Alibaba Cloud MVP 2018 / 2019 / 2020
 
 ## Languages
 **Hungarian**: Native <br>
