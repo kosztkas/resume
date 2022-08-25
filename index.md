@@ -13,7 +13,7 @@ Enterprise Solutions - Cloud
   - Training colleagues on the fundamentals of containerization and Kubernetes
   - Supporting Veeam Cloud Connect deals on TDA level
   - Building a new Kubernetes product
-  - Creating short lightboard videos explaining our solutions on a high level<br>
+  - Creating short lightboard videos explaining our solutions technological concepts on a high level<br>
   
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
@@ -54,12 +54,14 @@ Solutions & Projects
 ## On The Side
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
-Mentoring students on the fundamentals of Ansible and Public Clouds -  AWS
+Mentoring in the fundamentals of Ansible and public clouds, specifically AWS <br>
+Creating course materials, excercises and holding lectures online
 <br>
 
-**Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Mar 2022 - June 2022)_ <br>
- Consulting on the Training Project Laboratory course in the semester
- Exercises in Docker and Kubernetes
+**Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
+ Consulting on the Training Project Laboratory course for the semester <br>
+ Planned exercises in Docker and Kubernetes <br>
+ Participated in the rating of the course final papers
 <br><br>
         
 ## Certifications
