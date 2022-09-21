@@ -56,7 +56,7 @@ Internal IT <br>
 Maintained the user plane equipment - configured access ports, VoIP phone ports, spec patches, wireless Access Points (Prime mgmt & WLC). <br>
 Continued to carry out selected sysadmin activities based on expertise. Started to support projects.
 
-***_Technologies used:_*** VMware, Linux, Cisco iOS, Avaya phones
+**_Technologies used:_** VMware, Linux, Cisco iOS, Avaya phones
 <br><br>
 
 **Sysadmin trainee** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) <br>
