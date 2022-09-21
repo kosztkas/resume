@@ -6,7 +6,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
-**Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Present)_ <br>
+### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Present)_ <br>
 Enterprise Solutions - Cloud
   - Tested and deployed a new KVM solution for our datacenter services
   - Providing thought leadership for overall AWS architecture, testing and deployment
@@ -18,7 +18,7 @@ Enterprise Solutions - Cloud
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
 
-**Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
+### **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
 Cloud Managed Services
 
 Being a subject matter expert for cloud product development
@@ -30,7 +30,7 @@ Being a subject matter expert for cloud product development
  **_Technologies used:_** Alibaba Cloud, MS Azure, AWS, Cloudyn, SAML
 <br><br>
 
-**Solution Consultant** @ [Vodafone](https://www.vodafone.com/) _(Jan 2017 - Apr 2019)_ <br>
+### **Solution Consultant** @ [Vodafone](https://www.vodafone.com/) _(Jan 2017 - Apr 2019)_ <br>
 Cloud & Security Services
 - Translated complex customer requirements into feasible technical solution in form of high-level designs. 
 - Reviewed customers’ current infrastructure and proposed modernization or upgrade opportunities. 
@@ -42,7 +42,7 @@ Cloud & Security Services
 **_Technologies used:_** Alibaba Cloud, AWS, Python, Ansible, Terraform, Docker
 <br><br>
 
-**Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
+### **Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
 Solutions & Projects
  - Supported multiple projects by managing their VMware environments and Linux systems also supporting Docker. 
  - Worked closely with the development teams, fulfilling their infrastructure requirements. 
@@ -52,11 +52,11 @@ Solutions & Projects
 <br><br>
 
 **Network Administrator** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) <br>
-Internal IT
+Internal IT <br>
 Maintained the user plane equipment - configured access ports, VoIP phone ports, spec patches, wireless Access Points (Prime mgmt & WLC). <br>
 Continued to carry out selected sysadmin activities based on expertise. Started to support projects.
 
-**_Technologies used:_** VMware, Linux, Cisco iOS, Avaya phones
+***_Technologies used:_*** VMware, Linux, Cisco iOS, Avaya phones
 <br><br>
 
 **Sysadmin trainee** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) <br>
@@ -88,7 +88,7 @@ Creating and grading exams
  - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a6b33fc8-9eb3-41ae-84f6-9c81c07e05b3)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
- - Qualified Electrician - 2022
+ - Qualified Electrician - National Register of Vocational Qualifications - 2022
 
 ![VMCE](https://images.credly.com/size/100x100/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png)
 ![AWS](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
