@@ -51,11 +51,31 @@ Solutions & Projects
 **_Technologies used:_** VMware, Linux, Docker, Nagios
 <br><br>
 
+**Network Administrator** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) <br>
+Internal IT
+Maintained the user plane equipment - configured access ports, VoIP phone ports, spec patches, wireless Access Points (Prime mgmt & WLC). <br>
+Continued to carry out selected sysadmin activities based on expertise. Started to support projects.
+
+**_Technologies used:_** VMware, Linux, Cisco iOS, Avaya phones
+<br><br>
+
+**Sysadmin trainee** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) <br>
+Internal IT
+ - Managed the centralized HP Printing system, AD and DNS services
+ - Participated in the VMware vSphere system administration
+ - Administered our Corporate File Share – DFS
+ - Created a Release Management process for our team
+ - Participated in the monthly patching of Windows servers (win2008R2, win2012)
+
+**_Technologies used:_** VMware, Linux, Windows, Nagios, DFS, AD
+<br><br>
+
 ## On The Side
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
 Mentoring in the fundamentals of Ansible and public clouds, specifically AWS <br>
-Creating course materials, excercises and holding lectures online
+Creating course materials, excercises and holding lectures online <br>
+Creating and grading exams
 <br>
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
