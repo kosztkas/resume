@@ -11,7 +11,7 @@ Enterprise Solutions - Cloud
   - Tested and deployed a new KVM solution for our datacenter services
   - Providing thought leadership for overall AWS architecture, testing and deployment
   - Training colleagues on the fundamentals of containerization and Kubernetes
-  - Supporting Veeam Cloud Connect deals on TDA level
+  - Supporting Veeam deals and solutions on TDA level
   - Building a new Kubernetes product
   - Creating short lightboard videos explaining our solutions technological concepts on a high level<br>
   
