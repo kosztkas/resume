@@ -86,7 +86,7 @@ Creating and grading exams
         
 ## Certifications
  - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
- - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a6b33fc8-9eb3-41ae-84f6-9c81c07e05b3)
+ - [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/831b71a6-20f1-4eeb-805b-a44df4bc566d)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
  - Qualified Electrician - National Register of Vocational Qualifications - 2022
 
