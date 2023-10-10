@@ -6,7 +6,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
-### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Present)_ <br>
+### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Sep 2023)_ <br>
 Enterprise Solutions - Cloud
   - Tested and deployed a new KVM solution for our datacenter services
   - Providing thought leadership for overall AWS architecture, testing and deployment
