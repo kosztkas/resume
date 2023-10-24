@@ -6,6 +6,9 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
+### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_ <br>
+Infrastructure
+
 ### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Sep 2023)_ <br>
 Enterprise Solutions - Cloud
   - Tested and deployed a new KVM solution for our datacenter services
@@ -86,7 +89,7 @@ Creating and grading exams
         
 ## Certifications
  - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
- - [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/831b71a6-20f1-4eeb-805b-a44df4bc566d)
+ - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/831b71a6-20f1-4eeb-805b-a44df4bc566d)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
  - Qualified Electrician - National Register of Vocational Qualifications - 2022
 
