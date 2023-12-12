@@ -84,7 +84,7 @@ Creating and grading exams
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
  Consulting on the Training Project Laboratory course for the semester <br>
  Planned exercises in Docker and Kubernetes <br>
- Participated in the rating of the course final papers
+ Rated the course final papers
 <br><br>
         
 ## Certifications
@@ -108,7 +108,7 @@ Creating and grading exams
 
 ## Education
 **Bachelor of Profession, Computer Science** <br>
-Budapest University of Technology and Economics <br>
+Budapest University of Technology and Economics - 2023 <br>
 Major in Testing and Operation
 
 **Bachelor of Science, Computer Engineering** <br>
