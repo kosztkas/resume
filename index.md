@@ -9,6 +9,8 @@ _Cloud Architect in Budapest, Hungary_ <br>
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_ <br>
 Infrastructure
 
+**_Technologies:_** Terraform, **Amazon Web Services**, Veeam, Linux
+
 ### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Sep 2023)_ <br>
 Enterprise Solutions - Cloud
   - Tested and deployed a new KVM solution for our datacenter services
