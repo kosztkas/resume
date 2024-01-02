@@ -1,1 +1,3 @@
-This is my resume built gh-page, serving https://cv.ksztk.hu
+This is my GitHub Pages powered resume
+
+https://cv.ksztk.hu
