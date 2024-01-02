@@ -7,7 +7,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 ## Experience
 
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_ <br>
-Infrastructure
+Infra team
 
 **_Technologies:_** Terraform, **Amazon Web Services**, Veeam, Linux
 
