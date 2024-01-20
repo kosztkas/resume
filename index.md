@@ -78,7 +78,7 @@ Internal IT
 ## On The Side
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
-Mentoring in the fundamentals of Ansible and public clouds, specifically AWS <br>
+Mentoring in the fundamentals of Ansible and public clouds (AWS) <br>
 Creating course materials, excercises and holding lectures online <br>
 Creating and grading exams
 <br>
@@ -90,9 +90,9 @@ Creating and grading exams
 <br><br>
         
 ## Certifications
- - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
- - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/831b71a6-20f1-4eeb-805b-a44df4bc566d)
  - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/9f5efe5b-193c-41e9-8b43-b6f94724b275)
+ - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/831b71a6-20f1-4eeb-805b-a44df4bc566d)
+ - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
  - Qualified Electrician - National Register of Vocational Qualifications - 2022
 
