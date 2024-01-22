@@ -96,10 +96,10 @@ Creating and grading exams
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
  - Qualified Electrician - National Register of Vocational Qualifications - 2022
 
-![AWS](https://images.credly.com/size/100x100/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)
-![VMCE](https://images.credly.com/size/100x100/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png)
+<img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS_SAP" width="100"/>
+<img src="https://images.credly.com/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png" alt="VMCE" width="100"/>
 <img src="https://i.imgur.com/j1ZBAEP.png" alt="Ali" width="100"/>
-<br><br>
+<br>
 
 ## Awards
  - [Alibaba Cloud MVP](https://mvp.alibabacloud.com/mvp/detail/163) 2018 / 2019 / 2020
