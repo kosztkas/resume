@@ -90,15 +90,17 @@ Creating and grading exams
 <br><br>
         
 ## Certifications
- - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/9f5efe5b-193c-41e9-8b43-b6f94724b275)
- - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/831b71a6-20f1-4eeb-805b-a44df4bc566d)
+ - [AWS Certified: Solutions Architect – Professional](https://www.credly.com/badges/9f5efe5b-193c-41e9-8b43-b6f94724b275)
+ - [AWS Certified: Solutions Architect – Associate](https://www.credly.com/badges/831b71a6-20f1-4eeb-805b-a44df4bc566d)
+ - [AWS Certified: SAP on AWS - Specialty](https://www.credly.com/badges/ad98188d-9284-4703-8e98-61a7276e7a99)
  - [Veeam Certified Engineer 2021 (VMCE 2021) v11](https://www.credly.com/badges/51e69292-ce4e-4c5b-80d2-8d7ed7ca3600)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
  - Qualified Electrician - National Register of Vocational Qualifications - 2022
 
 <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS_SAP" width="100"/>
+<img src="https://images.credly.com/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" alt="AWS_PAS" width="100"/>
 <img src="https://images.credly.com/images/e090fc81-a593-42c9-b4ad-4703d7c46763/VMCE_certification_badge_2021.png" alt="VMCE" width="100"/>
-<img src="https://i.imgur.com/j1ZBAEP.png" alt="Ali" width="100"/>
+<img src="https://i.imgur.com/j1ZBAEP.png" alt="ACP" width="100"/>
 <br>
 
 ## Awards
