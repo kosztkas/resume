@@ -6,10 +6,15 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
-### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_ <br>
+<img src="https://tc2.hu/wp-content/themes/tc2/resources/images/tc2-logo-fekvo.x21378.svg" width="100">
+
+### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_  <br>
 Consultancy team
 
 **_Technologies:_** Terraform, **Amazon Web Services**, Veeam, Linux
+<br><br>
+
+<img src="https://www.invitech.hu/gfx/invitech-logo.svg" width="100">
 
 ### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Sep 2023)_ <br>
 Enterprise Solutions - Cloud
@@ -23,6 +28,8 @@ Enterprise Solutions - Cloud
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
 
+<img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="50">
+
 ### **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
 Cloud Managed Services
 
@@ -34,6 +41,8 @@ Being a subject matter expert for cloud product development
  
  **_Technologies used:_** Alibaba Cloud, MS Azure, AWS, Cloudyn, SAML
 <br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Vodafone_2017_logo.svg/2880px-Vodafone_2017_logo.svg.png" width="100">
 
 ### **Solution Consultant** @ [Vodafone](https://www.vodafone.com/) _(Jan 2017 - Apr 2019)_ <br>
 Cloud & Security Services
@@ -77,11 +86,15 @@ Internal IT
 
 ## On The Side
 
+<img src="https://flowacademy.hu/wp-content/uploads/2024/01/Flow-Academy-logo-Green-240x99-1.png" width="100">
+
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
 Mentoring in the fundamentals of Ansible and public clouds (AWS) <br>
 Creating course materials, excercises and holding lectures online <br>
 Creating and grading exams
 <br>
+
+<img src="https://www.bme.hu/sites/all/themes/foo/logo.png" width="100">
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
  Consulting on the Training Project Laboratory course for the semester <br>
