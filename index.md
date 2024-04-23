@@ -28,7 +28,7 @@ Enterprise Solutions - Cloud
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
 
-<img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="50">
+<img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="100">
 
 ### **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
 Cloud Managed Services
@@ -55,6 +55,8 @@ Cloud & Security Services
 
 **_Technologies used:_** Alibaba Cloud, AWS, Python, Ansible, Terraform, Docker
 <br><br>
+
+<img src="https://dns-sw.hu/wp-content/uploads/2016/04/itsh.jpg" width="100">
 
 ### **Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
 Solutions & Projects
