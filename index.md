@@ -28,7 +28,7 @@ Enterprise Solutions - Cloud
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
 
-<img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="100">
+<img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="50">
 
 ### **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
 Cloud Managed Services
