@@ -96,7 +96,7 @@ Creating course materials, excercises and holding lectures online <br>
 Creating and grading exams
 <br>
 
-<img src="https://www.bme.hu/sites/all/themes/foo/logo.png" width="100">
+<img src="https://www.bme.hu/assets/bme_fooldal_logo.png" width="100">
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
  Consulting on the Training Project Laboratory course for the semester <br>
