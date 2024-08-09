@@ -9,7 +9,10 @@ _Cloud Architect in Budapest, Hungary_ <br>
 <img src="https://tc2.hu/wp-content/themes/tc2/resources/images/tc2-logo-fekvo.x21378.svg" width="100">
 
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_  <br>
-Consultancy team
+Consultancy team <br><br>
+As a member of the consultancy team, I act as a bridge between the operations team and the customer. My responsibilities include conducting regular cost and security reviews of customer AWS environments, and I frequently create and present these reviews. 
+Additionally, I schedule and plan operations and development tasks, and I actively participate in the delivery process using Terraform / Terragrunt. <br>
+I also serve as a subject matter expert for backup solutions, particularly for creating AWS Backup-based solutions for various AWS resource and SAP database backups.
 
 **_Technologies:_** Terraform, **Amazon Web Services**, Veeam, Linux
 <br><br>
@@ -17,7 +20,7 @@ Consultancy team
 <img src="https://www.invitech.hu/gfx/invitech-logo.svg" width="100">
 
 ### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Sep 2023)_ <br>
-Enterprise Solutions - Cloud
+Enterprise Solutions - Cloud <br>
   - Tested and deployed a new KVM solution for our datacenter services
   - Providing thought leadership for overall AWS architecture, testing and deployment
   - Training colleagues on the fundamentals of containerization and Kubernetes
@@ -31,13 +34,12 @@ Enterprise Solutions - Cloud
 <img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="50">
 
 ### **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
-Cloud Managed Services
-
-Being a subject matter expert for cloud product development
- - Develop automation and design for our Alibaba cloud offering product launch. 
+Cloud Managed Services <br>
+ - I was a subject matter expert for cloud product development
+ - Developed automation and design for our Alibaba cloud offering product launch. 
  - Contributed to the development of the SSO for the multi cloud solution. <br>
   (With Python, Terraform and Resource Orchestration Service /ROS/ templates)
- - Configuring Cloudyn reports (for MS Azure Billing and AWS) <br>
+ - Configured Cloudyn reports (for MS Azure Billing and AWS) <br>
  
  **_Technologies used:_** Alibaba Cloud, MS Azure, AWS, Cloudyn, SAML
 <br><br>
@@ -45,7 +47,7 @@ Being a subject matter expert for cloud product development
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Vodafone_2017_logo.svg/2880px-Vodafone_2017_logo.svg.png" width="100">
 
 ### **Solution Consultant** @ [Vodafone](https://www.vodafone.com/) _(Jan 2017 - Apr 2019)_ <br>
-Cloud & Security Services
+Cloud & Security Services <br>
 - Translated complex customer requirements into feasible technical solution in form of high-level designs. 
 - Reviewed customers’ current infrastructure and proposed modernization or upgrade opportunities. 
 - Enabled sales by providing design and indicative prices.
@@ -59,7 +61,7 @@ Cloud & Security Services
 <img src="https://dns-sw.hu/wp-content/uploads/2016/04/itsh.jpg" width="100">
 
 ### **Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
-Solutions & Projects
+Solutions & Projects <br>
  - Supported multiple projects by managing their VMware environments and Linux systems also supporting Docker. 
  - Worked closely with the development teams, fulfilling their infrastructure requirements. 
  - Built a monitoring system for the Docker container environment using Nagios and custom bash scripts. Started automating tasks with Ansible.
@@ -76,7 +78,7 @@ Continued to carry out selected sysadmin activities based on expertise. Started 
 <br><br>
 
 **Sysadmin trainee** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) <br>
-Internal IT
+Internal IT <br>
  - Managed the centralized HP Printing system, AD and DNS services
  - Participated in the VMware vSphere system administration
  - Administered our Corporate File Share – DFS
