@@ -117,7 +117,7 @@ Creating and grading exams
 <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS_SAP" width="100"/>
 <img src="https://images.credly.com/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" alt="AWS_PAS" width="100"/>
 <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_SAA" width="100"/>
-<img src="https://images.credly.com/images/7291af60-4830-4bcb-b126-e3c52036e1ae/image.png" alt="VMCE" width="150"/>
+<img src="https://images.credly.com/images/7291af60-4830-4bcb-b126-e3c52036e1ae/image.png" alt="VMCE" width="125"/>
 <img src="https://i.imgur.com/j1ZBAEP.png" alt="ACP" width="100"/>
 <br>
 
