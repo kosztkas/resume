@@ -112,7 +112,7 @@ Creating and grading exams
  - [AWS Certified: SAP on AWS - Specialty](https://www.credly.com/badges/ad98188d-9284-4703-8e98-61a7276e7a99)
  - [Veeam Certified Engineer 2024 (VMCE 2024) v12.1](https://www.credly.com/badges/dbbd8c44-6132-46ad-a544-dc682cebea54)
  - Alibaba Cloud Certified Professional - ACP - Cloud Computing
- - Qualified Electrician - National Register of Vocational Qualifications - 2022
+ - Electrician - National Register of Vocational Qualifications - 2022
 
 <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS_SAP" width="100"/>
 <img src="https://images.credly.com/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" alt="AWS_PAS" width="100"/>
