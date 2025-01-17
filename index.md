@@ -8,7 +8,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 <img src="https://tc2.hu/wp-content/themes/tc2/resources/images/tc2-logo-fekvo.x21378.svg" width="100">
 
-### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Present)_  <br>
+### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Dec 2024)_  <br>
 Consultancy team <br><br>
 As a member of the consultancy team, I act as a bridge between the operations team and the customer. My responsibilities include conducting regular cost and security reviews of customer AWS environments, and I frequently create and present these reviews. 
 Additionally, I schedule and plan operations and development tasks, and I actively participate in the delivery process using Terraform / Terragrunt. <br>
