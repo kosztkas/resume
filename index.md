@@ -6,7 +6,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
-<img src="./logos/DTITS.png" width="100">
+<img src="./logos/DTITS.png" height="50">
 
 ### **Cloud Architect** @ [Deutsche Telekom It Solutions](https://www.deutschetelekomitsolutions.hu/) _(Jan 2025 - present)_  <br>
 Cloud Services <br>
@@ -14,7 +14,7 @@ Cloud Services <br>
 **_Technologies:_** Terraform, Terragrunt, **Amazon Web Services**, Linux
 <br><br>
 
-<img src="./logos/tc2.svg" width="100">
+<img src="./logos/tc2.svg" height="50">
 
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Dec 2024)_  <br>
 Consultancy team <br><br>
@@ -25,7 +25,7 @@ I also serve as a subject matter expert for backup solutions, particularly for c
 **_Technologies:_** Terraform, **Amazon Web Services**, Veeam, Linux
 <br><br>
 
-<img src="https://www.invitech.hu/gfx/invitech-logo.svg" width="100">
+<img src="./logos/invitech.svg" height="50">
 
 ### **Cloud Architect** @ [Invitech](https://invitech.hu/) _(Jan 2020 - Sep 2023)_ <br>
 Enterprise Solutions - Cloud <br>
@@ -39,7 +39,7 @@ Enterprise Solutions - Cloud <br>
 **_Technologies used:_** Veeam, AWS, Ansible, Kubernetes
 <br><br>
 
-<img src="https://img01.products.bt.co.uk/content/dam/bt/storefront/bt-home/extcust/images/icons/2023/july/bt-logo.svg" width="50">
+<img src="./logos/bt.svg" height="50">
 
 ### **Cloud Specialist** @ [British Telecom](https://bt.com/) _(May 2019 - Jan 2020)_ <br>
 Cloud Managed Services <br>
@@ -52,7 +52,7 @@ Cloud Managed Services <br>
  **_Technologies used:_** Alibaba Cloud, MS Azure, AWS, Cloudyn, SAML
 <br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Vodafone_2017_logo.svg/2880px-Vodafone_2017_logo.svg.png" width="100">
+<img src="./logos/vodafone.png" height="50">
 
 ### **Solution Consultant** @ [Vodafone](https://www.vodafone.com/) _(Jan 2017 - Apr 2019)_ <br>
 Cloud & Security Services <br>
@@ -66,7 +66,7 @@ Cloud & Security Services <br>
 **_Technologies used:_** Alibaba Cloud, AWS, Python, Ansible, Terraform, Docker
 <br><br>
 
-<img src="./logos/itsh.png" width="100">
+<img src="./logos/itsh.png" height="100">
 
 ### **Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
 Solutions & Projects <br>
@@ -98,7 +98,7 @@ Internal IT <br>
 
 ## On The Side
 
-<img src="https://flowacademy.hu/wp-content/uploads/2024/01/Flow-Academy-logo-Green-240x99-1.png" width="150">
+<img src="./logos/flowacademy.png" width="150">
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
 Mentoring in the fundamentals of Ansible and public clouds (AWS) <br>
@@ -106,7 +106,7 @@ Creating course materials, excercises and holding lectures online <br>
 Creating and grading exams
 <br>
 
-<img src="https://www.bme.hu/assets/bme_fooldal_logo.png" width="150">
+<img src="./logos/bme.png" width="150">
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
  Consulting on the Training Project Laboratory course for the semester <br>
