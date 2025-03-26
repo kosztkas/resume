@@ -6,7 +6,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
-<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFJwodS7a0rNw/company-logo_200_200/company-logo_200_200/0/1666771939353/deutsche_telekom_it_solutions_hu_logo?e=1748476800&v=beta&t=1bMnLfmF9SBYNnc2kHR9C9JcU628AlM4siglcZpKhyM" width="100">
+<img src="./logos/DTITS.png" width="100">
 
 ### **Cloud Architect** @ [Deutsche Telekom It Solutions](https://www.deutschetelekomitsolutions.hu/) _(Jan 2025 - present)_  <br>
 Cloud Services <br>
@@ -14,7 +14,7 @@ Cloud Services <br>
 **_Technologies:_** Terraform, Terragrunt, **Amazon Web Services**, Linux
 <br><br>
 
-<img src="./tc2.svg" width="100">
+<img src="./logos/tc2.svg" width="100">
 
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Dec 2024)_  <br>
 Consultancy team <br><br>
