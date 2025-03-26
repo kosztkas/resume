@@ -6,7 +6,15 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 ## Experience
 
-<img src="https://tc2.hu/wp-content/themes/tc2/resources/images/tc2-logo-fekvo.x21378.svg" width="100">
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFJwodS7a0rNw/company-logo_200_200/company-logo_200_200/0/1666771939353/deutsche_telekom_it_solutions_hu_logo?e=1748476800&v=beta&t=1bMnLfmF9SBYNnc2kHR9C9JcU628AlM4siglcZpKhyM" width="100">
+
+### **Cloud Architect** @ [Deutsche Telekom It Solutions](https://www.deutschetelekomitsolutions.hu/) _(Jan 2025 - present)_  <br>
+Cloud Services <br>
+
+**_Technologies:_** Terraform, Terragrunt, **Amazon Web Services**, Linux
+<br><br>
+
+<img src="./tc2.svg" width="100">
 
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Dec 2024)_  <br>
 Consultancy team <br><br>
@@ -58,7 +66,7 @@ Cloud & Security Services <br>
 **_Technologies used:_** Alibaba Cloud, AWS, Python, Ansible, Terraform, Docker
 <br><br>
 
-<img src="https://dns-sw.hu/wp-content/uploads/2016/04/itsh.jpg" width="100">
+<img src="./logos/itsh.png" width="100">
 
 ### **Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
 Solutions & Projects <br>
@@ -90,7 +98,7 @@ Internal IT <br>
 
 ## On The Side
 
-<img src="https://flowacademy.hu/wp-content/uploads/2024/01/Flow-Academy-logo-Green-240x99-1.png" width="100">
+<img src="https://flowacademy.hu/wp-content/uploads/2024/01/Flow-Academy-logo-Green-240x99-1.png" width="150">
 
 **Mentor** @ [Flow Academy](https://www.flowacademy.hu//) _(Jan 2022 - Present)_ <br>
 Mentoring in the fundamentals of Ansible and public clouds (AWS) <br>
@@ -98,7 +106,7 @@ Creating course materials, excercises and holding lectures online <br>
 Creating and grading exams
 <br>
 
-<img src="https://www.bme.hu/assets/bme_fooldal_logo.png" width="100">
+<img src="https://www.bme.hu/assets/bme_fooldal_logo.png" width="150">
 
 **Research Assistant** @ [Budapest University of Technology and Economics](https://www.bme.hu//) _(Feb 2022 - June 2022)_ <br>
  Consulting on the Training Project Laboratory course for the semester <br>
