@@ -66,7 +66,7 @@ Cloud & Security Services <br>
 **_Technologies used:_** Alibaba Cloud, AWS, Python, Ansible, Terraform, Docker
 <br><br>
 
-<img src="./logos/itsh.png" height="100">
+<img src="./logos/itsh.png" height="125">
 
 ### **Linux Engineer** @ [IT Services Hungary](https://www.deutschetelekomitsolutions.hu/) _(Oct 2012 - Jan 2017)_ <br>
 Solutions & Projects <br>
