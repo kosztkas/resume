@@ -2,27 +2,28 @@
 
 _Cloud Architect in Budapest, Hungary_ <br>
 
-[Email](mailto:sandor.kosztka@gmail.com) / [~~Website~~](https://ksztk.hu/) / [LinkedIn](https://www.linkedin.com/in/kosztkas/) / [GitHub](http://git.io/sztk)
+[Email](mailto:sandor.kosztka@gmail.com) / [~~Website~~](https://cv.ksztk.hu/) / [LinkedIn](https://www.linkedin.com/in/kosztkas/) / [GitHub](http://git.io/sztk)
 
 ## Experience
 
 <img src="./logos/DTITS_inv.jpg" height="75">
 
 ### **Cloud Architect** @ [Deutsche Telekom It Solutions](https://www.deutschetelekomitsolutions.hu/) _(Jan 2025 - present)_  <br>
-Cloud Services <br>
+Cloud Services <br><br>
+Network, backup and generic cloud platform related solutions in multiple projects as an architect.
 
-**_Technologies:_** Terraform, Terragrunt, **Amazon Web Services**, Linux
+**_Technologies:_** Terraform, Terragrunt, **AWS**, Network, Linux
 <br><br>
 
 <img src="./logos/tc2.svg" height="50">
 
 ### **Cloud Architect** @ [TC2](https://tc2.hu/) _(Oct 2023 - Dec 2024)_  <br>
 Consultancy team <br><br>
-As a member of the consultancy team, I act as a bridge between the operations team and the customer. My responsibilities include conducting regular cost and security reviews of customer AWS environments, and I frequently create and present these reviews. 
-Additionally, I schedule and plan operations and development tasks, and I actively participate in the delivery process using Terraform / Terragrunt. <br>
-I also serve as a subject matter expert for backup solutions, particularly for creating AWS Backup-based solutions for various AWS resource and SAP database backups.
+As a member of the consultancy team, I was acting as a bridge between the operations team and the customer. My responsibilities included conducting regular cost and security reviews of customer AWS environments, and I frequently created and presented these reviews. 
+Additionally, I scheduled and planned operations and development tasks, and I actively participated in the delivery process using Terraform / Terragrunt. <br>
+I also served as a subject matter expert for backup solutions, particularly for creating AWS Backup-based solutions for various AWS resource and SAP database backups.
 
-**_Technologies:_** Terraform, **Amazon Web Services**, Veeam, Linux
+**_Technologies:_** Terraform, **AWS**, Veeam, Linux
 <br><br>
 
 <img src="./logos/invitech.svg" height="50">
@@ -115,18 +116,17 @@ Creating and grading exams
 <br><br>
         
 ## Certifications
+ - [AWS Certified: Advanced Networking – Specialty](https://www.credly.com/earner/earned/badge/22aea656-9547-469b-8560-11fa12227933)
  - [AWS Certified: Solutions Architect – Professional](https://www.credly.com/badges/9f5efe5b-193c-41e9-8b43-b6f94724b275)
  - [AWS Certified: Solutions Architect – Associate](https://www.credly.com/badges/831b71a6-20f1-4eeb-805b-a44df4bc566d)
  - [AWS Certified: SAP on AWS - Specialty](https://www.credly.com/badges/ad98188d-9284-4703-8e98-61a7276e7a99)
  - [Veeam Certified Engineer 2024 (VMCE 2024) v12.1](https://www.credly.com/badges/dbbd8c44-6132-46ad-a544-dc682cebea54)
- - Alibaba Cloud Certified Professional - ACP - Cloud Computing
- - Electrician - National Register of Vocational Qualifications - 2022
 
+<img src="https://images.credly.com/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" alt="AWS_ANS" width="100">
 <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS_SAP" width="100"/>
 <img src="https://images.credly.com/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" alt="AWS_PAS" width="100"/>
 <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_SAA" width="100"/>
 <img src="https://images.credly.com/images/7291af60-4830-4bcb-b126-e3c52036e1ae/image.png" alt="VMCE" width="125"/>
-<img src="https://i.imgur.com/j1ZBAEP.png" alt="ACP" width="100"/>
 <br>
 
 ## Awards
@@ -144,6 +144,9 @@ Major in Testing and Operation
 
 **Bachelor of Science, Computer Engineering** <br>
 Budapest University of Technology and Economics <br>
+
+**Electrician** <br>
+National Register of Vocational Qualifications - 2022
 
 <br><br>
 
