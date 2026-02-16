@@ -8,7 +8,7 @@ _Cloud Architect in Budapest, Hungary_ <br>
 
 <img src="./logos/DTITS_inv.jpg" height="75">
 
-### **Cloud Architect** @ [Deutsche Telekom It Solutions](https://www.deutschetelekomitsolutions.hu/) _(Jan 2025 - present)_  <br>
+### **Cloud Architect** @ [Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu/) _(Jan 2025 - present)_  <br>
 Cloud Services <br><br>
 Network, backup and generic cloud platform related solutions in multiple projects as an architect.
 
